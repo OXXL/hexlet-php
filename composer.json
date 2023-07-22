@@ -1,0 +1,11 @@
+{
+    "name": "hex/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "xrdoc",
+            "email": "rodonax7@gmail.com"
+        }
+    ],
+    "require": {}
+}
